@@ -18,7 +18,7 @@ ms.locfileid: "37077707"
 
 ASP.NET Core 是一个跨平台的高性能[开源](https://github.com/aspnet/home)框架，用于生成基于云且连接 Internet 的新式应用程序。 使用 ASP.NET Core，您可以：
 
-* 建置 Web 应用程式和服务、[IoT](https://www.microsoft.com/internet-of-things/) 应用和移动后端。
+* 建置 Web 应用程序和服务、[IoT](https://www.microsoft.com/internet-of-things/) 应用和移动后端。
 * 在 Windows、macOS 和 Linux 上使用喜爱的开发工具。
 * 部署到云或本地。
 * 在 [.NET Core 或 .NET Framework](https://docs.microsoft.com/dotnet/articles/standard/choosing-core-framework-server) 上运行。
